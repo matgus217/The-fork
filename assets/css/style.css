@@ -179,7 +179,7 @@ h1 {
 
 .contact {
     color: white;
-        margin-left: 10px;
+    margin-left: 10px;
 }
 
 
@@ -218,7 +218,10 @@ h1 {
     border-radius: 20px;
 }
 
-
+#book-a-table {
+    color: white;
+    margin-left: 10px;
+}
 
 #map {
     width: 100%;
