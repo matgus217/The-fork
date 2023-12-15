@@ -35,3 +35,20 @@ h1 {
     color: white;
     text-align: center;
 }
+
+.hero {
+    color: white;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: white;
+    height: 60px;
+    margin-top: 650px;
+    text-align: center;
+}
+
+#social-media {
+    width: 100px;
+    margin-left: 800px;
+}
