@@ -41,6 +41,190 @@ h1 {
     margin-left: 10px;
 }
 
+.food-menu {
+    color: white;
+    font-size: 50px;
+    margin-left: 20px
+}
+
+.burger h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.burger {
+    background: url(../images/pexels-valeria-boltneva-1639557.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.sallad h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.sallad {
+    background: url(../images/pexels-andy-kuzma-3070968.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.pasta h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+
+.pasta {
+    background: url(../images/pexels-karolina-grabowska-4039528.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.soup h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.soup {
+    background: url(../images/pexels-nadin-sh-19062797.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.drink-menu {
+    color: white;
+    font-size: 50px;
+    margin-left: 20px
+}
+
+.beer h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.beer {
+    background: url(../images/pexels-oleksandr-p-1009068.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+
+.wine h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.wine {
+    background: url(../images/pexels-pixabay-33265.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.soda h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.soda {
+    background: url(../images/pexels-jonathan-borba-2983100.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.drinks h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.drinks {
+    background: url(../images/pexels-pixabay-265704.jpg)no-repeat center center/cover;
+    height: 170px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+.about-us {
+    color: white;
+    margin-left: 10px;
+}
+
+.find {
+    color: white;
+    margin-left: 10px;
+}
+
+.contact {
+    color: white;
+        margin-left: 10px;
+}
+
+
+.card {
+    color: white;
+    margin-left: 10px;
+}
+
+
+
+.card-info {
+    color: white;
+    margin-left: 10px;
+}
+
+.gift {
+    color: white;
+    margin-left: 10px;
+}
+
+.gift-info {
+    color: white;
+    margin-left: 10px;
+}
+
+
+.button a {
+    color: white;
+    margin-left: 10px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+
+
+#map {
+    width: 100%;
+    height: 400px;
+}
+
 footer {
     background-color: white;
     height: 60px;
