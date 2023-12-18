@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Chilanka&family=Inter:wght@100&family=Noto+Sans:wght@300&family=Nova+Square&family=Playpen+Sans:wght@500&family=Titillium+Web:wght@300&display=swap');
 
+
+/*body-style*/
+
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
@@ -8,11 +11,13 @@ body {
     overflow-x: hidden;
 
 }
+/*img*/
 
 .first-img {
     background: url(../images/pexels-pixabay-262896.jpg)no-repeat top center / cover;
 }
 
+/*First page styles*/
 
 .logo {
     color: white;
@@ -36,6 +41,8 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar a {
@@ -43,6 +50,8 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hero {
@@ -50,12 +59,17 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+/*img*/
 
 .second-img {
     background: url(../images/burger.jpg)no-repeat top center / cover;
 }
+
+/*menu styles*/
 
 .food {
     color: white;
@@ -73,7 +87,6 @@ h1 {
 }
 
 .burger {
-
     height: 170px;
     width: 250px;
     color: white;
@@ -92,7 +105,9 @@ h1 {
 
 .third-img {
     background: url(../images/drink.jpg)no-repeat top center / cover;
-}.drink {
+}
+
+.drink {
     color: white;
     font-size: 50px;
     margin-left: auto;
@@ -101,13 +116,13 @@ h1 {
     text-align: center;
    
 }
+
 .beer h3 {
     font-size: 45px;
     text-align: center;
 }
 
 .beer {
-
     height: 170px;
     width: 250px;
     color: white;
@@ -115,6 +130,8 @@ h1 {
     margin-right: auto;
     font-weight: bold;
 }
+
+/*img*/
 
 .img-4 {
     background: url(../images/bar.jpg)no-repeat top center / cover;
@@ -128,6 +145,8 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+
+/*img*/
 
 .img-5 {
     background: url(../images/fries.jpg)no-repeat top center / cover;
@@ -145,7 +164,6 @@ h1 {
 
 .gift {
     color: white;
-
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -165,6 +183,7 @@ h1 {
     background-color: black;
     border-radius: 10px;
 }
+/*img*/
 
 .img {
     width: 200px;
@@ -173,12 +192,12 @@ h1 {
 }
 
 .second-button a {
-
     color: white;
     margin-left: 10px;
     background-color: black;
     border-radius: 10px;
 }
+/*img*/
 
 .img-6 {
     background: url(../images/burges.jpg)no-repeat top center / cover;
@@ -194,13 +213,11 @@ h1 {
 }
 
 
-
-
-
 #map {
     width: 100%;
     height: 400px;
 }
+/*footer*/
 
 footer {
     background-color: white;
