@@ -21,6 +21,7 @@ body {
     text-decoration: none;
 }
 
+
 header a {
     color: transparent;
 }
@@ -37,10 +38,11 @@ h1 {
     font-size: 30px;
 }
 
-
-
 .navbar a {
     color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .hero {
@@ -62,6 +64,8 @@ h1 {
     margin-right: auto;
     font-weight: bold;
     text-align: center;
+    background-color: black;
+    opacity: 0.6;
 }
 
 
@@ -99,6 +103,8 @@ h1 {
     margin-right: auto;
     font-weight: bold;
     text-align: center;
+    background-color: black;
+        opacity: 0.6;
 }
 
 
@@ -207,6 +213,9 @@ footer {
     height: 60px;
     margin-top: 650px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.7;
 }
 
 #social-networks {
@@ -220,3 +229,9 @@ footer {
 #social-networks a {
     color: black;
 }
+
+
+/* Media query: tablets and larger (768 and up) */
+@media screen and (min-width :768px) {
+  
+   
