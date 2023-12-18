@@ -33,28 +33,36 @@ h1 {
 .navbar-header {
     color: white;
     text-align: center;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .navbar a {
     color: white;
     text-align: center;
+    font-weight: bold;
 }
 
 .hero {
     color: white;
-    margin-left: 10px;
+    text-align: center;
+    font-weight: bold;
 }
+
 
 .second-img {
     background: url(../images/burger.jpg)no-repeat top center / cover;
 }
 
-
-.food-menu {
+.food {
     color: white;
     font-size: 50px;
-    margin-left: 20px
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    text-align: center;
 }
+
 
 .burger h3 {
     font-size: 45px;
@@ -65,63 +73,29 @@ h1 {
 
     height: 170px;
     width: 250px;
-    border-radius: 10px;
     color: white;
-    margin-left: 20px;
-}
-
-.sallad h3 {
-    font-size: 45px;
-    text-align: center;
-}
-
-.sallad {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
-}
-
-.pasta h3 {
-    font-size: 45px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
-.pasta {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
-}
-
-.soup h3 {
-    font-size: 45px;
-    text-align: center;
-}
-
-.soup {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
-}
 
 .third-img {
     background: url(../images/drink.jpg)no-repeat top center / cover;
 }
 
-.drink-menu {
+.drink {
     color: white;
     font-size: 50px;
-    margin-left: 20px
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    text-align: center;
 }
+
+
+
+
 
 .beer h3 {
     font-size: 45px;
@@ -132,80 +106,36 @@ h1 {
 
     height: 170px;
     width: 250px;
-    border-radius: 10px;
     color: white;
-    margin-left: 20px;
-}
-
-
-.wine h3 {
-    font-size: 45px;
-    text-align: center;
-}
-
-.wine {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
-}
-
-.soda h3 {
-    font-size: 45px;
-    text-align: center;
-}
-
-.soda {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
-}
-
-.drinks h3 {
-    font-size: 45px;
-    text-align: center;
-}
-
-.drinks {
-
-    height: 170px;
-    width: 250px;
-    border-radius: 10px;
-    color: white;
-    margin-left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
 }
 
 .img-4 {
     background: url(../images/bar.jpg)no-repeat top center / cover;
 }
 
-.about-us {
-    color: white;
-    margin-left: 10px;
-}
 
-.find {
+.about {
     color: white;
-    margin-left: 10px;
-}
-
-.contact {
-    color: white;
-    margin-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    text-align: center;
 }
 
 .img-5 {
     background: url(../images/fries.jpg)no-repeat top center / cover;
 }
 
-.card {
+.present-card {
     color: white;
-    margin-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
 }
 
 
@@ -217,12 +147,17 @@ h1 {
 
 .gift {
     color: white;
-    margin-left: 10px;
+   
+    margin-left: auto;
+        margin-right: auto;
+        text-align: center;
 }
 
 .gift-info {
     color: white;
-    margin-left: 10px;
+    margin-left: auto;
+        margin-right: auto;
+        text-align: center;
 }
 
 
@@ -251,9 +186,13 @@ h1 {
     background: url(../images/burges.jpg)no-repeat top center / cover;
 }
 
-#book-a-table {
+#book-table {
     color: white;
-    margin-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
 }
 
 #map {
