@@ -64,9 +64,7 @@ h1 {
     margin-right: auto;
     font-weight: bold;
     text-align: center;
-    background-color: black;
-    opacity: 0.6;
-}
+    }
 
 
 .burger h3 {
@@ -94,23 +92,15 @@ h1 {
 
 .third-img {
     background: url(../images/drink.jpg)no-repeat top center / cover;
-}
-
-.drink {
+}.drink {
     color: white;
     font-size: 50px;
     margin-left: auto;
     margin-right: auto;
     font-weight: bold;
     text-align: center;
-    background-color: black;
-        opacity: 0.6;
+   
 }
-
-
-
-
-
 .beer h3 {
     font-size: 45px;
     text-align: center;
@@ -223,6 +213,10 @@ footer {
     margin-left: auto;
     margin-right: auto;
     font-size: 30px;
+    display: flex;
+        max-width: 350px;
+        justify-content: space-evenly;
+        list-style-type: none;
 
 }
 
@@ -234,4 +228,3 @@ footer {
 /* Media query: tablets and larger (768 and up) */
 @media screen and (min-width :768px) {
   
-   
