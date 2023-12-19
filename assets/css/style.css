@@ -12,21 +12,7 @@ body {
 
 }
 
-label [for="toggle"]{
-    display: none;
 
-}
-
-.fa-solid {
-    display: none;
-}
-.navigation-responsive {
-    display: none;
-}
-
-#toggle {
-    display: none;
-}
 
 /*img*/
 
@@ -276,35 +262,4 @@ footer {
 }
 
 
-/* Media query: */
 
-@media (max-width:768px) {
-    .navbar-header {
-        display: none;
-    }
-
-    .navbar a {
-        display: none;
-    }
-
-    .navigation-responsive {
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        font-size: 20px;
-        font-weight: bold;
-    }
-
-    .navigation-responsive ul {
-        display: block;
-        list-style: none;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-
-    }
-
-    .navigation-responsive a {
-        color: white;
-    }
-}
