@@ -12,11 +12,14 @@ body {
 
 }
 
-label {
+label [for="toggle"]{
     display: none;
 
 }
 
+.fa-solid {
+    display: none;
+}
 .navigation-responsive {
     display: none;
 }
