@@ -71,6 +71,10 @@ h1 {
     margin-right: auto;
 }
 
+.navbar li {
+    color: transparent;
+}
+
 .hero {
     color: white;
     text-align: center;
