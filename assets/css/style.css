@@ -61,6 +61,11 @@ h1 {
     color: transparent;
 }
 
+
+.drop-down {
+    display: none;
+}
+
 .hero {
     color: white;
     text-align: center;
@@ -262,4 +267,35 @@ footer {
 }
 
 
+/* Media */
+@media (max-width: 991px) {
+    .navbar-header {
+        display: none;
 
+    }
+
+    .navbar a {
+        display: none;
+
+    }
+
+    .navbar li {
+        display: none;
+
+    }
+
+    .drop-down {
+        display: flex;
+    }
+
+    .drop-button {
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10px;
+        background-color: black;
+    }
+
+    .drop-content a {
+        color: white;
+    }
+}
