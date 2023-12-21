@@ -157,9 +157,9 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - I have tested the website on different screen sizes, here is how it look.
 #### Mobile:
 
-![mobile](https://github.com/matgus217/The-fork/assets/147818054/b434c57a-7b29-4d15-8dbe-10dca6ef3424)
+![Mobile](https://github.com/matgus217/The-fork/assets/147818054/b8f4ec9f-0fff-4bda-b160-57cc479ec225)
 
-![Skärmavbild 2023-12-19 kl  15 15 47](https://github.com/matgus217/The-fork/assets/147818054/f71ab135-ad40-41b6-9e08-bc486cfbdd7b)
+![Mobile](https://github.com/matgus217/The-fork/assets/147818054/4b3a4e79-4408-4804-97a3-364a191c8cda)
 
 #### Tablets:
 
