@@ -292,10 +292,10 @@ footer {
         margin-left: auto;
         margin-right: auto;
         border-radius: 10px;
-        background-color: black;
+        background-color: white;
     }
 
     .drop-content a {
-        color: white;
+        color: black;
     }
 }
