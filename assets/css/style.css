@@ -73,7 +73,7 @@ h1 {
 }
 
 
-/* Add a red background color to navbar links on hover */
+/* Add a black background color to navbar links on hover */
 .navbar a:hover,
 .dropdown:hover .dropbtn {
     background-color: black;

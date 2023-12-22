@@ -9,7 +9,9 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - It is identical on all three pages for easy navigation.
 - The user can easily navigate between the pages without having to revert back to previous pages via the "back"-button.
 
-![Navbar](https://github.com/matgus217/The-fork/assets/147818054/bd8e91ec-c9ab-4f49-afb0-1daf5ab5e01c)
+![navigation](https://github.com/matgus217/The-fork/assets/147818054/c4cc20e1-e4db-4478-8900-cdb0011bc12a)
+
+![navigation](https://github.com/matgus217/The-fork/assets/147818054/ab771364-3d5f-4615-92f4-0d15153d592e)
 
 - __Landing page image__
 - The landing includes an image with a fork, overlayed with the text "Our hallmark is simplicity, here we let the quality of the food play the main role.", it also contains the text "An experience out of the ordinary." and "The best dinning and quality is to be find here." The text end with "Since 1995."
@@ -157,17 +159,20 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - I have tested the website on different screen sizes, here is how it look.
 #### Mobile:
 
-![Mobile](https://github.com/matgus217/The-fork/assets/147818054/b8f4ec9f-0fff-4bda-b160-57cc479ec225)
+![Mobile](https://github.com/matgus217/The-fork/assets/147818054/14a05e0f-8ec2-4bca-bd90-1376dc859311)
 
-![Mobile](https://github.com/matgus217/The-fork/assets/147818054/4b3a4e79-4408-4804-97a3-364a191c8cda)
+![Mobile](https://github.com/matgus217/The-fork/assets/147818054/0898ca92-9078-4f99-b898-b1038aba2379)
 
 #### Tablets:
 
-![tablets](https://github.com/matgus217/The-fork/assets/147818054/9e17c562-05c1-412e-8be7-8ec0b5a29008)
+![Tablets](https://github.com/matgus217/The-fork/assets/147818054/45e4a32b-2032-4ae9-a09e-bede44589797)
 
 #### Laptops:
 
-![laptops](https://github.com/matgus217/The-fork/assets/147818054/6f64c5e0-167d-43a1-8b38-fec4f13ed4cb)
+![Laptop](https://github.com/matgus217/The-fork/assets/147818054/2d027d2b-bd18-469c-bbf7-c9231cbbcbb6)
+
+![Laptop](https://github.com/matgus217/The-fork/assets/147818054/de380081-3556-498d-a9e5-0f969baa3c52)
+
 
 ## Deployment
 - The site was deployed to Github pages. And the steps i followed were:
