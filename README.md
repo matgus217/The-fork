@@ -11,7 +11,7 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 
 ![navigation](https://github.com/matgus217/The-fork/assets/147818054/c4cc20e1-e4db-4478-8900-cdb0011bc12a)
 
-![navigation](https://github.com/matgus217/The-fork/assets/147818054/ab771364-3d5f-4615-92f4-0d15153d592e)
+![navigation](https://github.com/matgus217/The-fork/assets/147818054/60a5ba20-d457-471a-a956-135fbd146731)
 
 - __Landing page image__
 - The landing includes an image with a fork, overlayed with the text "Our hallmark is simplicity, here we let the quality of the food play the main role.", it also contains the text "An experience out of the ordinary." and "The best dinning and quality is to be find here." The text end with "Since 1995."
@@ -22,7 +22,7 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - __Footer__
 - The footer section includes links to social media sites for The Fork. To keep easy navigation for the user the links open in new tabs.
 
-![Footer](https://github.com/matgus217/The-fork/assets/147818054/e1138341-4a35-4fe3-9f73-c4ded13ec6ab)
+![footer](https://github.com/matgus217/The-fork/assets/147818054/0e61c1ab-0c96-4de6-bb40-8f6b1f0512ac)
 
 - __Food Menu__
 - The food menu page tells the user what the restaurant offer in food.
@@ -50,7 +50,8 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - __Map__
 - This section on the "About" page shows the user where the restaurant is located on a google map. The user can make the map bigger easy navigate themself around the city of Gothenburg.
 
-![Map](https://github.com/matgus217/The-fork/assets/147818054/ae4bfe3a-8560-48d1-9578-6a2cf63c88eb)
+![map](https://github.com/matgus217/The-fork/assets/147818054/02026fa9-0098-46d8-ae81-43c716f7f076)
+
 
 - __Buy A Giftcard__
 - In the Buy A Giftcard section the user finds out how to buy a card. That they can buy a card on site, by phone or email the resturant and after they can pick it up at the resturant. They will also find out how much a giftcard costs.
@@ -159,20 +160,23 @@ The Fork is a website for a restaurant in Gothenburg, Sweden. It will help custo
 - I have tested the website on different screen sizes, here is how it look.
 #### Mobile:
 
-![Mobile](https://github.com/matgus217/The-fork/assets/147818054/14a05e0f-8ec2-4bca-bd90-1376dc859311)
+![mobile](https://github.com/matgus217/The-fork/assets/147818054/b07c15ca-ecd3-437b-9b9a-056a62fb24f4)
 
-![Mobile](https://github.com/matgus217/The-fork/assets/147818054/0898ca92-9078-4f99-b898-b1038aba2379)
+![mobile](https://github.com/matgus217/The-fork/assets/147818054/b90c4131-e6ad-4b61-bb17-03107a3086ba)
+
 
 #### Tablets:
 
-![Tablets](https://github.com/matgus217/The-fork/assets/147818054/45e4a32b-2032-4ae9-a09e-bede44589797)
+![tablet](https://github.com/matgus217/The-fork/assets/147818054/0b4d14aa-72bf-49bb-a512-57ff8bfe0b20)
+
+![tablet](https://github.com/matgus217/The-fork/assets/147818054/88e1ff6b-7c99-4130-b81b-b3cd2e1f6d62)
+
 
 #### Laptops:
 
-![Laptop](https://github.com/matgus217/The-fork/assets/147818054/2d027d2b-bd18-469c-bbf7-c9231cbbcbb6)
+![laptop](https://github.com/matgus217/The-fork/assets/147818054/4e88d96a-f235-4cb1-88fa-1e249987798c)
 
-![Laptop](https://github.com/matgus217/The-fork/assets/147818054/de380081-3556-498d-a9e5-0f969baa3c52)
-
+![laptop](https://github.com/matgus217/The-fork/assets/147818054/3da7d6d1-c691-43d9-8255-bfa63de32d87)
 
 ## Deployment
 - The site was deployed to Github pages. And the steps i followed were:
